@@ -5,6 +5,8 @@ You can pack it in your workshop if you write in the description:
 
 The description of the mod in the workshop must contain this text, if it is not there or you prohibit repackaging the mod or selling my mod, I will consider it a violation and will send the DMCA.
 
+The mod should not contain the key that signed the pbo files, keep the key only in your keys folder on the server!
+
 Это бесплатный мод на вертолет для игры Dayz Standalone, 
 Вы можете упаковать его в своей мастерской, если в описании напишите:
 
@@ -12,7 +14,7 @@ The description of the mod in the workshop must contain this text, if it is not 
 
 В описании мода в мастерской должен быть этот текст, если его там нет или вы запрещаете переупаковку мода или продавать мой мод, я сочту это нарушением и отправлю DMCA.
 
-
+Мод не должен содержать ключ который которым подписаны pbo файлы, ключ храните только у себя в папке ключей на сервере!
 
 
 Instructions:
